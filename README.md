@@ -1,9 +1,9 @@
 ## Hi there 👋
-I am JiaHeak, a final-year undergraduate student of BSc Physics at the University of Malaya, Malaysia. Although I am a Physics student, I am very interested in the Astrophysics & Cosmology, and I will pursue my postgraduate studies in these. 
+I am JiaHeak, a final-year undergraduate student of BSc Physics at the University of Malaya, Malaysia. Although I am a Physics student, I am very interested in Astrophysics & Cosmology, and I will pursue my postgraduate studies in these. 
 
 I studied radio astronomy for my Final Year Project, focusing on multifrequency observations of an AGN. 
 
-For now, I have switched my research direction to computational astrophysics and simulations. I am learning the GADGET-4 simulation and practicing visualization techniques. 
+For now, my research direction has been switched to computational astrophysics and simulations. I am learning the GADGET-4 simulation and practicing visualization techniques, such as yt and Pynbody libraries. Regarding postgraduate research, I will likely focus on galactic formation and baryonic physics that could influence the evolution of galaxies. 
 <!--
 **JiaHeak/JiaHeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
