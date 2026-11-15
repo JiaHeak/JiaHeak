@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 
 https://github.com/user-attachments/assets/24a61754-fb5b-4d36-93e2-de9b6a5fb869
 
+### Galaxy evolution animation
 
+https://github.com/user-attachments/assets/19302de2-2390-475f-b888-d8fe262125e0
+
+**Reference:** Jason Tumlinson, Molly S. Peeples, and Jessica K. Werk (2017), “[The Circumgalactic Medium](https://doi.org/10.1146/annurev-astro-091916-055240),” *Annual Review of Astronomy and Astrophysics*, **55**, 389–432.
